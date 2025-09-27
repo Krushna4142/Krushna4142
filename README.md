@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=221DF7&width=435&lines=Hello+%F0%9F%91%8B;I'm+krushna....;Code+Create+Innovate%F0%9F%93%8A;Checkout+my+Projects%F0%9F%93%8A+;and+check+out+my+Repo" alt="Typing SVG" /></a>
 
-# 👋 Hi, I’m Krushna Nawale
+# 💫 Hi there 👋 It's me Krushna
 
 💻 **Computer Engineering Student | Software Developer | Data & AI Enthusiast**
 🚀 *Code. Create. Innovate.*
@@ -34,22 +34,27 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, C, C++, Python
-**Web Development:** HTML, CSS, JavaScript, React, Node.js, MERN Stack
-**Data & Analytics:** SQL, Excel, Tableau, Data Visualization
-**Cybersecurity:** Network Security, Log Analysis, Web Security
-**Other Skills:** OOP, DSA, Code Optimization, Agile, Team Collaboration
+-**Languages:** Java, C, C++, Python,  TypeScript, JavaScript
+
+-**Web Development:** HTML, CSS, JavaScript, React, Node.js, MERN Stack, Next.js, Tailwind CSS, Redux, Vite
+
+-**Data & Analytics:** SQL, Excel, Tableau, Data Visualization, Pandas, NumPy
+
+-**Cybersecurity:** Network Security, Log Analysis, Web Security, OWASP Top 10, Vulnerability Assessment, Security Audits
+
+-**Other Skills:** OOP, DSA, Code Optimization, Agile, Team Collaboration, CI/CD, Vercel, Cursor, Windsurf, V0
+
 
 ---
 
 ## 🚀 Featured Projects
-
-🔹 [**AgriTech AI**](#) – Crop management solution for farmers using Flask, MySQL, React
-🔹 [**AI Resume Builder**](#) – Automated resume creation with Flask, React & NLP
+🔹 [**Portfolio Website**](https://krushna-portfolio-web.vercel.app/) – Personal Portfolio Website with Flask, React & NLP
+🔹 [**AgriTech AI**](https://agritech-by-krushna-app.vercel.app/) – Crop management solution for farmers using Flask, MySQL, React
+🔹 [**Fit OS Dashboard**](https://krushna-fitos.vercel.app/) – Helthmate Dashboard with Flask, React & NLP
 🔹 [**Quantum Calendar**](https://krushna4142.github.io/quantum-calendar-/) – Calendar reimagined with quantum logic, AI twists & astrology mode
 🔹 [**TaskFlow**](https://task-flow-krushna-one.vercel.app/) – Productivity app with gamification & AI excuses
-
-👉 Explore more projects on my [GitHub Repositories](https://github.com/Krushna4142)
+ 
+👉 Explore more projects on my [GitHub Repositories]([https://github.com/Krushna4142](https://github.com/Krushna4142?tab=repositories))
 
 ---
 
