@@ -48,11 +48,11 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [**Portfolio Website**](https://krushna-portfolio-web.vercel.app/) – Personal Portfolio Website with Flask, React & NLP
-🔹 [**AgriTech AI**](https://agritech-by-krushna-app.vercel.app/) – Crop management solution for farmers using Flask, MySQL, React
-🔹 [**Fit OS Dashboard**](https://krushna-fitos.vercel.app/) – Helthmate Dashboard with Flask, React & NLP
-🔹 [**Quantum Calendar**](https://krushna4142.github.io/quantum-calendar-/) – Calendar reimagined with quantum logic, AI twists & astrology mode
-🔹 [**TaskFlow**](https://task-flow-krushna-one.vercel.app/) – Productivity app with gamification & AI excuses
+-🔹 [**Portfolio Website**](https://krushna-portfolio-web.vercel.app/) – Personal Portfolio Website with Flask, React & NLP
+-🔹 [**AgriTech AI**](https://agritech-by-krushna-app.vercel.app/) – Crop management solution for farmers using Flask, MySQL, React
+-🔹 [**Fit OS Dashboard**](https://krushna-fitos.vercel.app/) – Helthmate Dashboard with Flask, React & NLP
+-🔹 [**Quantum Calendar**](https://krushna4142.github.io/quantum-calendar-/) – Calendar reimagined with quantum logic, AI twists & astrology mode
+-🔹 [**TaskFlow**](https://task-flow-krushna-one.vercel.app/) – Productivity app with gamification & AI excuses
  
 👉 Explore more projects on my [GitHub Repositories]([https://github.com/Krushna4142](https://github.com/Krushna4142?tab=repositories))
 
