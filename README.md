@@ -108,8 +108,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushna4142&label=Profile%20views&color=0e75b6&style=flat" alt="krushna4142" /> </p>
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krushna4142&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
