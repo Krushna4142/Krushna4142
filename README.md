@@ -10,7 +10,7 @@
 
 ## 💫 Hi there — I'm **Krushna** 👋
 
-💻 **Computer Engineering Student | Software Developer | Data & AI Enthusiast**  
+💻 **Java Backend / Full Stack Developer | Spring Boot | DSA**  
 🚀 *Code. Create. Innovate.*
 
 ---
@@ -93,22 +93,26 @@
 
 ---
 
-## 🎖️ Certifications & Achievements
-
-[![Deloitte](https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-brightgreen?style=for-the-badge)](./Deloitte%20Australia's%20Data%20Analytics.pdf)  
-[![TATA](https://img.shields.io/badge/TATA-Data_Visualisation-blue?style=for-the-badge)](./TATA-Data%20Visualisation%20Empowering%20Business.pdf)  
-[![EA](https://img.shields.io/badge/Electronic_Arts-Software_Engineering-red?style=for-the-badge)](./Electronic%20Arts-Software%20Engineering%20Job%20Simulation.pdf)  
-[![Forever](https://img.shields.io/badge/Forever_Living-Assistant_Supervisor-orange?style=for-the-badge)](./flp.pdf)  
-
----
-
 <h3 align="left">Profile Views :</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushna4142&label=Profile%20views&color=0e75b6&style=flat" alt="krushna4142" /> </p>
 ---
 
+## 📊 Stats
 
+[![wakatime](https://wakatime.com/badge/user/db9c8f13-6149-4d67-b0bd-037c56f25f50.svg)](https://wakatime.com/badge/user/db9c8f13-6149-4d67-b0bd-037c56f25f50) <b>&nbsp; coded, since JUN 22 2025</b>
+
+📊 <b>This Week I Spent My Time On</b>
+
+<!--START_SECTION:waka-->
+```text
+Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
+Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
+JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
+<!--END_SECTION:waka-->
 
 
 
