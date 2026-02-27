@@ -35,12 +35,16 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **Pursuing B.E. in Computer Engineering** — based in Pune, India.  
-- 💡 **Interests:** Applied Machine Learning, MERN stack web apps, Data Analytics, and Cybersecurity.  
-- 🛠️ **Working style:** Practical, test-driven, and focused on readable code and clean UX.  
-- 🌱 **Currently exploring:** Cloud deployments, system design patterns, and production-ready ML.  
-- 🤝 **Open to:** Collaborations on open-source projects, internships, and mentorship for placements.  
-- 📫 **Contact:** [krushnanawale4142@gmail.com](mailto:krushnanawale4142@gmail.com)
+-🎓 **B.E. Computer Engineering Student** based in Pune, India.  
+-💻 **Aspiring Java Backend Developer** building strong foundations in Core Java, OOP, and scalable REST API development using Spring Boot.  
+-📚 **Practicing Data Structures & Algorithms daily** to strengthen logical thinking and problem-solving ability.  
+-⚙️ **Focused on writing clean, maintainable backend code** with solid database design and real-world architecture understanding.  
+-🌐 **Currently exploring:** System Design fundamentals, Spring Security, and cloud-ready application deployment.  
+-🤝 **Open to:** Backend internships, collaborative projects, and opportunities to grow as a production-ready developer. 
+
+-📫 **Contact:** [krushnanawale4142@gmail.com](mailto:krushnanawale4142@gmail.com)
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -105,17 +109,15 @@
 
 📊 <b>This Week I Spent My Time On</b>
 
-<!--START_SECTION:waka-->
+
 ```text
-Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Java         4 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   42.00 %
+Spring Boot  2 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░   26.00 %
+DSA Practice 1 hr 50 mins    █████░░░░░░░░░░░░░░░░░░░   18.50 %
+JavaScript   55 mins         ███░░░░░░░░░░░░░░░░░░░░░   09.00 %
+SQL          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+
 ```
-<!--END_SECTION:waka-->
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
